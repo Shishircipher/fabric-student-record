@@ -1,7 +1,7 @@
 {
     "name": "asset-transfer-basic",
     "version": "1.0.0",
-    "description": "Asset-Transfer-Basic contract implemented in JavaScript",
+    "description": "Student-Basic contract implemented in JavaScript",
     "main": "index.js",
     "engines": {
         "node": ">=12",
